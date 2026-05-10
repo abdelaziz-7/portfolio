@@ -638,7 +638,7 @@ input, textarea { font-family: inherit; }
 .card-img {
   position: relative;
   overflow: hidden;
-  height: 220px;
+  height: 230px;
 }
 
 .card-img img {
